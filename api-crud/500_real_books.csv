@@ -1,0 +1,501 @@
+﻿bookTitle,authorName,price,isbnno,nop,publication
+Pride and Prejudice,Jane Austen,399,9780141439518,432,Penguin Classics
+1984,George Orwell,299,9780451524935,328,Signet Classics
+Animal Farm,George Orwell,199,9780451526342,112,Signet Classics
+To Kill a Mockingbird,Harper Lee,499,9780061120084,336,Harper Perennial
+The Great Gatsby,F. Scott Fitzgerald,249,9780743273565,180,Scribner
+The Catcher in the Rye,J. D. Salinger,399,9780316769488,277,"Little, Brown"
+Jane Eyre,Charlotte Brontë,349,9780141441146,532,Penguin Classics
+Wuthering Heights,Emily Brontë,299,9780141439556,416,Penguin Classics
+Little Women,Louisa May Alcott,399,9780147514011,528,Puffin Classics
+The Hobbit,J. R. R. Tolkien,499,9780547928227,310,Mariner Books
+The Lord of the Rings,J. R. R. Tolkien,899,9780544003415,1178,Mariner Books
+Harry Potter and the Philosopher's Stone,J. K. Rowling,499,9781408855652,352,Bloomsbury
+The Alchemist,Paulo Coelho,299,9780062315007,208,HarperOne
+The Kite Runner,Khaled Hosseini,399,9781594631931,371,Riverhead Books
+The Book Thief,Markus Zusak,449,9780375842207,584,Knopf Books
+The Da Vinci Code,Dan Brown,499,9780307474278,489,Anchor
+The Chronicles of Narnia,C. S. Lewis,599,9780064404990,767,HarperCollins
+The Little Prince,Antoine de Saint-Exupéry,199,9780156012195,96,Mariner Books
+The Picture of Dorian Gray,Oscar Wilde,249,9780141439570,320,Penguin Classics
+The Old Man and the Sea,Ernest Hemingway,199,9780684830490,96,Scribner
+A Tale of Two Cities,Charles Dickens,299,9780141439600,544,Penguin Classics
+Great Expectations,Charles Dickens,349,9780141439563,544,Penguin Classics
+David Copperfield,Charles Dickens,399,9780140439441,882,Penguin Classics
+Oliver Twist,Charles Dickens,299,9780140439298,608,Penguin Classics
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,249,9780141034359,336,Penguin Classics
+Dracula,Bram Stoker,299,9780141439846,488,Penguin Classics
+Frankenstein,Mary Shelley,249,9780141439471,288,Penguin Classics
+The Odyssey,Homer,349,9780140268867,560,Penguin Classics
+The Iliad,Homer,399,9780140275360,720,Penguin Classics
+Don Quixote,Miguel de Cervantes,499,9780060934347,992,Harper Perennial
+The Count of Monte Cristo,Alexandre Dumas,449,9780140449266,1276,Penguin Classics
+Les Misérables,Victor Hugo,499,9780451419439,1463,Signet Classics
+War and Peace,Leo Tolstoy,599,9780199232765,1392,Oxford World's Classics
+Anna Karenina,Leo Tolstoy,449,9780143035008,864,Penguin Classics
+Crime and Punishment,Fyodor Dostoevsky,299,9780143058144,671,Penguin Classics
+The Brothers Karamazov,Fyodor Dostoevsky,399,9780374528379,824,Farrar Straus Giroux
+The Metamorphosis,Franz Kafka,199,9780553213690,96,Bantam Classics
+The Trial,Franz Kafka,299,9780805209990,255,Schocken
+One Hundred Years of Solitude,Gabriel García Márquez,499,9780060883287,417,Harper Perennial
+Love in the Time of Cholera,Gabriel García Márquez,449,9780307389732,368,Vintage
+The Stranger,Albert Camus,249,9780679720201,123,Vintage
+The Plague,Albert Camus,299,9780679720218,308,Vintage
+The Master and Margarita,Mikhail Bulgakov,399,9780141180144,384,Penguin Classics
+Brave New World,Aldous Huxley,299,9780060850524,268,Harper Perennial
+Fahrenheit 451,Ray Bradbury,299,9781451678182,249,Simon & Schuster
+The Grapes of Wrath,John Steinbeck,399,9780143039433,528,Penguin Classics
+Of Mice and Men,John Steinbeck,249,9780140177398,107,Penguin Classics
+East of Eden,John Steinbeck,449,9780142000656,601,Penguin Classics
+The Road,Cormac McCarthy,399,9780307386458,287,Vintage
+The Handmaid's Tale,Margaret Atwood,399,9780385490818,311,Anchor
+The Hunger Games,Suzanne Collins,399,9780439023481,374,Scholastic Press
+The Fault in Our Stars,John Green,299,9780062024039,313,Dutton Books
+The Perks of Being a Wallflower,Stephen Chbosky,299,9781451696196,224,MTV Books
+The Giver,Lois Lowry,249,9780544336261,240,Houghton Mifflin
+The Outsiders,S. E. Hinton,249,9780142407332,192,Puffin Books
+The Secret Garden,Frances Hodgson Burnett,249,9780064401883,331,HarperCollins
+The Wind in the Willows,Kenneth Grahame,249,9780142437333,256,Penguin Classics
+Alice's Adventures in Wonderland,Lewis Carroll,199,9780141439761,128,Penguin Classics
+Through the Looking-Glass,Lewis Carroll,199,9780140433661,208,Penguin Classics
+Peter Pan,J. M. Barrie,249,9780142437942,224,Penguin Classics
+The Jungle Book,Rudyard Kipling,249,9780141321624,256,Puffin Classics
+Around the World in Eighty Days,Jules Verne,249,9780140449068,272,Penguin Classics
+Twenty Thousand Leagues Under the Sea,Jules Verne,299,9780140447876,448,Penguin Classics
+The Time Machine,H. G. Wells,199,9780140437423,128,Penguin Classics
+The War of the Worlds,H. G. Wells,249,9780141441030,224,Penguin Classics
+The Invisible Man,H. G. Wells,249,9780141441030,192,Penguin Classics
+Treasure Island,Robert Louis Stevenson,249,9780141321004,272,Puffin Classics
+The Three Musketeers,Alexandre Dumas,399,9780140440259,704,Penguin Classics
+The Call of the Wild,Jack London,199,9780141321053,144,Puffin Classics
+White Fang,Jack London,199,9780141321011,256,Puffin Classics
+The Wonderful Wizard of Oz,L. Frank Baum,199,9780142437425,224,Penguin Classics
+The Secret Agent,Joseph Conrad,299,9780141191380,288,Penguin Classics
+Heart of Darkness,Joseph Conrad,199,9780141441600,128,Penguin Classics
+The Sun Also Rises,Ernest Hemingway,299,9780099273972,251,Vintage
+For Whom the Bell Tolls,Ernest Hemingway,399,9780099285035,480,Vintage
+A Farewell to Arms,Ernest Hemingway,299,9780099279923,304,Vintage
+Moby-Dick,Herman Melville,449,9780142437247,720,Penguin Classics
+The Scarlet Letter,Nathaniel Hawthorne,249,9780142437261,272,Penguin Classics
+The Canterbury Tales,Geoffrey Chaucer,399,9780140424386,544,Penguin Classics
+The Divine Comedy,Dante Alighieri,499,9780142437223,798,Penguin Classics
+The Republic,Plato,299,9780140455113,416,Penguin Classics
+Meditations,Marcus Aurelius,249,9780141395860,304,Penguin Classics
+Thus Spoke Zarathustra,Friedrich Nietzsche,299,9780140441185,352,Penguin Classics
+The Prince,Niccolò Machiavelli,199,9780140449150,176,Penguin Classics
+The Art of War,Sun Tzu,199,9781599869773,68,Filiquarian Publishing
+Man's Search for Meaning,Viktor E. Frankl,299,9780807014295,184,Beacon Press
+The Power of Now,Eckhart Tolle,399,9781577314806,236,New World Library
+Atomic Habits,James Clear,499,9780735211292,320,Avery
+Deep Work,Cal Newport,449,9781455586691,304,Grand Central Publishing
+The 7 Habits of Highly Effective People,Stephen R. Covey,499,9781982137274,464,Simon & Schuster
+How to Win Friends and Influence People,Dale Carnegie,299,9780671027032,288,Simon & Schuster
+Think and Grow Rich,Napoleon Hill,199,9781585424337,320,TarcherPerigee
+Rich Dad Poor Dad,Robert T. Kiyosaki,349,9781612680194,336,Plata Publishing
+The Intelligent Investor,Benjamin Graham,599,9780060555665,640,Harper Business
+Sapiens,Yuval Noah Harari,499,9780062316097,464,Harper Perennial
+Homo Deus,Yuval Noah Harari,499,9780062464316,464,Harper
+21 Lessons for the 21st Century,Yuval Noah Harari,499,9780525512172,372,Spiegel & Grau
+Educated,Tara Westover,499,9780399590504,352,Random House
+Becoming,Michelle Obama,599,9781524763138,448,Crown
+Steve Jobs,Walter Isaacson,599,9781451648539,656,Simon & Schuster
+Leonardo da Vinci,Walter Isaacson,599,9781501139154,624,Simon & Schuster
+Einstein,Walter Isaacson,499,9780743264747,704,Simon & Schuster
+The Innovators,Walter Isaacson,499,9781476708706,560,Simon & Schuster
+Zero to One,Peter Thiel,399,9780804139298,224,Crown Business
+The Lean Startup,Eric Ries,399,9780307887894,336,Crown Business
+Start with Why,Simon Sinek,349,9781591846444,256,Portfolio
+Good to Great,Jim Collins,449,9780066620992,400,Harper Business
+The Psychology of Money,Morgan Housel,349,9780857197689,256,Harriman House
+Ikigai,Héctor García and Francesc Miralles,299,9780143130727,208,Penguin Life
+The Subtle Art of Not Giving a F*ck,Mark Manson,349,9780062457714,224,HarperOne
+Can't Hurt Me,David Goggins,449,9781544512280,364,Lioncrest Publishing
+The 48 Laws of Power,Robert Greene,499,9780140280197,452,Penguin Books
+The Laws of Human Nature,Robert Greene,599,9780143111375,624,Viking
+Mastery,Robert Greene,499,9780143124177,336,Viking
+The 5 AM Club,Robin Sharma,349,9781443456623,336,HarperCollins
+Who Moved My Cheese?,Spencer Johnson,199,9780091816971,96,Vermilion
+The Monk Who Sold His Ferrari,Robin Sharma,249,9780062515674,198,HarperOne
+Wings of Fire,A. P. J. Abdul Kalam,299,9788173711466,180,Universities Press
+Ignited Minds,A. P. J. Abdul Kalam,299,9788184301069,228,Penguin Books India
+My Experiments with Truth,Mahatma Gandhi,399,9780142431173,528,Penguin Classics
+Train to Pakistan,Khushwant Singh,249,9780143065884,192,Penguin Books India
+The Guide,R. K. Narayan,249,9788185986173,224,Indian Thought Publications
+Malgudi Days,R. K. Narayan,299,9788185986036,256,Indian Thought Publications
+Swami and Friends,R. K. Narayan,249,9788185986043,160,Indian Thought Publications
+The White Tiger,Aravind Adiga,349,9781416562603,288,Free Press
+Midnight's Children,Salman Rushdie,499,9780099578512,647,Vintage
+The God of Small Things,Arundhati Roy,399,9780006550686,340,Flamingo
+A Suitable Boy,Vikram Seth,599,9780060786525,1474,Harper Perennial
+The Namesake,Jhumpa Lahiri,299,9780618485222,291,Mariner Books
+Interpreter of Maladies,Jhumpa Lahiri,299,9780395927205,198,Mariner Books
+The Palace of Illusions,Chitra Banerjee Divakaruni,349,9780385669931,360,Picador India
+The Immortals of Meluha,Amish Tripathi,299,9789380658742,436,Westland
+The Secret of the Nagas,Amish Tripathi,299,9789382618942,406,Westland
+The Oath of the Vayuputras,Amish Tripathi,349,9789382618973,575,Westland
+Chanakya's Chant,Ashwin Sanghi,349,9789381626702,432,Westland
+The Rozabal Line,Ashwin Sanghi,299,9789388754637,464,Westland
+Raavan: Enemy of Aryavarta,Amish Tripathi,399,9789388754439,415,Westland
+The Shiva Trilogy,Amish Tripathi,699,9789388754446,1192,Westland
+The Great Indian Novel,Shashi Tharoor,399,9780140257751,423,Penguin Books India
+The Ministry of Utmost Happiness,Arundhati Roy,499,9780241975489,445,Penguin Books
+The Lowland,Jhumpa Lahiri,399,9780670085125,340,Viking
+Sea of Poppies,Amitav Ghosh,399,9780375718507,515,John Murray
+The Glass Palace,Amitav Ghosh,449,9780375759531,512,Mariner Books
+The Shadow Lines,Amitav Ghosh,299,9780007455102,246,John Murray
+The Hungry Tide,Amitav Ghosh,399,9780007449599,403,John Murray
+A Fine Balance,Rohinton Mistry,449,9780571250363,603,Faber & Faber
+The Inheritance of Loss,Kiran Desai,399,9780802142811,324,Grove Press
+The Satanic Verses,Salman Rushdie,499,9780812976717,561,Random House
+Shantaram,Gregory David Roberts,599,9780312330538,944,St. Martin's Press
+The Book of M,Peng Shepherd,499,9780399171610,496,William Morrow
+Cloud Atlas,David Mitchell,499,9780375507250,509,Random House
+The Bone Clocks,David Mitchell,449,9780812976823,624,Random House
+Klara and the Sun,Kazuo Ishiguro,449,9780593396566,320,Vintage
+Never Let Me Go,Kazuo Ishiguro,349,9781400078776,288,Vintage
+The Remains of the Day,Kazuo Ishiguro,349,9780679735909,258,Vintage
+Atonement,Ian McEwan,399,9780385520171,351,Nan A. Talese
+The English Patient,Michael Ondaatje,399,9780679745204,301,Vintage
+Life of Pi,Yann Martel,349,9780156027328,326,Mariner Books
+The Midnight Library,Matt Haig,399,9780525559474,304,Viking
+The Humans,Matt Haig,349,9781476730590,304,Gallery Books
+How to Stop Time,Matt Haig,399,9780525522874,336,Viking
+Normal People,Sally Rooney,399,9781984822178,288,Hogarth
+Conversations with Friends,Sally Rooney,399,9780451481810,336,Hogarth
+"Beautiful World, Where Are You",Sally Rooney,499,9780374602604,368,Farrar Straus Giroux
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,449,9781501161933,400,Washington Square Press
+Daisy Jones & The Six,Taylor Jenkins Reid,449,9781524798642,368,Ballantine Books
+Malibu Rising,Taylor Jenkins Reid,449,9781524798659,384,Ballantine Books
+Carrie Soto Is Back,Taylor Jenkins Reid,499,9780593158687,384,Ballantine Books
+The Silent Patient,Alex Michaelides,399,9781250301697,336,Celadon Books
+The Maidens,Alex Michaelides,449,9781250304452,336,Celadon Books
+The Woman in the Window,A. J. Finn,399,9780062678416,448,William Morrow
+Gone Girl,Gillian Flynn,399,9780553418361,432,Broadway Books
+Sharp Objects,Gillian Flynn,349,9780307341556,254,Broadway Books
+Dark Places,Gillian Flynn,349,9780307341570,368,Broadway Books
+The Girl on the Train,Paula Hawkins,399,9781594634024,336,Riverhead Books
+The Couple Next Door,Shari Lapena,349,9780735221086,336,Pamela Dorman Books
+Big Little Lies,Liane Moriarty,399,9780425274866,460,Berkley
+The Husband's Secret,Liane Moriarty,399,9780451470906,496,Berkley
+The Rosie Project,Graeme Simsion,349,9781476729099,304,Simon & Schuster
+Eleanor Oliphant Is Completely Fine,Gail Honeyman,399,9780735220690,400,Viking
+Where the Crawdads Sing,Delia Owens,449,9780735219090,384,G.P. Putnam's Sons
+It Ends with Us,Colleen Hoover,399,9781501110368,384,Atria Books
+It Starts with Us,Colleen Hoover,399,9781668001226,336,Atria Books
+Verity,Colleen Hoover,399,9781538724736,336,Grand Central Publishing
+Ugly Love,Colleen Hoover,349,9781476753188,336,Atria Books
+November 9,Colleen Hoover,349,9781501110344,320,Atria Books
+The Seven Deaths of Evelyn Hardcastle,Stuart Turton,449,9781492657965,480,Sourcebooks
+The Thursday Murder Club,Richard Osman,399,9780241988275,400,Viking
+The Man Who Died Twice,Richard Osman,399,9780241512432,368,Viking
+The Bullet That Missed,Richard Osman,399,9780241554968,432,Viking
+The Last Devil to Die,Richard Osman,499,9780241618336,448,Viking
+Project Hail Mary,Andy Weir,499,9780593135204,496,Ballantine Books
+The Martian,Andy Weir,399,9780553418026,369,Broadway Books
+Artemis,Andy Weir,399,9780553448126,305,Crown
+Ready Player One,Ernest Cline,399,9780307887443,384,Broadway Books
+Ready Player Two,Ernest Cline,449,9780804198576,384,Ballantine Books
+Dune,Frank Herbert,499,9780441172719,688,Ace
+Dune Messiah,Frank Herbert,399,9780593098233,336,Ace
+Children of Dune,Frank Herbert,449,9780593098240,624,Ace
+Foundation,Isaac Asimov,349,9780553293357,244,Bantam Spectra
+"I, Robot",Isaac Asimov,299,9780553382563,224,Spectra
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,299,9780345391803,224,Del Rey
+The Restaurant at the End of the Universe,Douglas Adams,299,9780345391810,208,Del Rey
+Good Omens,Neil Gaiman and Terry Pratchett,399,9780060853983,432,HarperTorch
+American Gods,Neil Gaiman,449,9780062572233,635,William Morrow
+Coraline,Neil Gaiman,299,9780380807345,176,HarperCollins
+The Ocean at the End of the Lane,Neil Gaiman,349,9780062459367,256,William Morrow
+Neverwhere,Neil Gaiman,399,9780380973633,370,William Morrow
+The Sandman: Preludes & Nocturnes,Neil Gaiman,499,9781401284770,240,Vertigo
+The Name of the Wind,Patrick Rothfuss,499,9780756404741,662,DAW Books
+The Wise Man's Fear,Patrick Rothfuss,599,9780756407919,994,DAW Books
+Mistborn,Brandon Sanderson,499,9780765311788,672,Tor Books
+The Way of Kings,Brandon Sanderson,699,9780765326355,1007,Tor Books
+Words of Radiance,Brandon Sanderson,699,9780765326362,1087,Tor Books
+The Final Empire,Brandon Sanderson,499,9780765311788,541,Tor Books
+The Lies of Locke Lamora,Scott Lynch,499,9780553588941,722,Bantam
+A Game of Thrones,George R. R. Martin,599,9780553593716,835,Bantam
+A Clash of Kings,George R. R. Martin,599,9780553593716,969,Bantam
+A Storm of Swords,George R. R. Martin,699,9780553582024,973,Bantam
+A Feast for Crows,George R. R. Martin,599,9780553582024,753,Bantam
+A Dance with Dragons,George R. R. Martin,699,9780553582017,1125,Bantam
+The Fellowship of the Ring,J. R. R. Tolkien,499,9780547928210,423,Mariner Books
+The Two Towers,J. R. R. Tolkien,499,9780547928203,352,Mariner Books
+The Return of the King,J. R. R. Tolkien,499,9780547928197,416,Mariner Books
+The Silmarillion,J. R. R. Tolkien,499,9780618391110,365,Mariner Books
+A Wrinkle in Time,Madeleine L'Engle,299,9780312367541,256,Square Fish
+The Golden Compass,Philip Pullman,349,9780440238133,399,Yearling
+The Subtle Knife,Philip Pullman,349,9780440238140,352,Yearling
+The Amber Spyglass,Philip Pullman,399,9780440238157,467,Yearling
+Eragon,Christopher Paolini,399,9780375826696,509,Knopf Books
+Eldest,Christopher Paolini,449,9780375826696,681,Knopf Books
+Brisingr,Christopher Paolini,499,9780375826726,748,Knopf Books
+Inheritance,Christopher Paolini,499,9780375846311,849,Knopf Books
+The Maze Runner,James Dashner,399,9780385737944,375,Delacorte Press
+The Scorch Trials,James Dashner,399,9780385738750,360,Delacorte Press
+The Death Cure,James Dashner,399,9780385738774,325,Delacorte Press
+Divergent,Veronica Roth,399,9780062024039,487,Katherine Tegen Books
+Insurgent,Veronica Roth,399,9780062024053,525,Katherine Tegen Books
+Allegiant,Veronica Roth,399,9780062024084,526,Katherine Tegen Books
+The Fault in Our Stars,John Green,299,9780062058805,336,Penguin Books
+Looking for Alaska,John Green,299,9780062208111,221,Speak
+Paper Towns,John Green,299,9780062208128,305,Speak
+An Abundance of Katherines,John Green,299,9780062208135,256,Speak
+Turtles All the Way Down,John Green,399,9780525555360,286,Dutton Books
+The Book of Lost Things,John Connolly,399,9781476731641,352,Atria Books
+The Shadow of the Wind,Carlos Ruiz Zafón,449,9780143034902,487,Penguin Books
+The Angel's Game,Carlos Ruiz Zafón,449,9780061798060,531,Doubleday
+The Prisoner of Heaven,Carlos Ruiz Zafón,449,9780062208173,292,Harper
+The Labyrinth of Spirits,Carlos Ruiz Zafón,599,9780062668113,816,Harper
+The House of the Spirits,Isabel Allende,399,9781501117011,448,Atria Books
+Eva Luna,Isabel Allende,399,9781501116991,304,Atria Books
+The Alchemist's Daughter,Katharine McMahon,349,9780553385093,352,Bantam
+The Night Circus,Erin Morgenstern,449,9780307744432,516,Vintage
+The Starless Sea,Erin Morgenstern,499,9780385541213,498,Doubleday
+Station Eleven,Emily St. John Mandel,399,9780804172448,352,Vintage
+Sea of Tranquility,Emily St. John Mandel,449,9780593321447,272,Knopf
+The Glass Hotel,Emily St. John Mandel,399,9780525521150,320,Vintage
+The Power,Naomi Alderman,399,9780316547640,400,Back Bay Books
+The Testaments,Margaret Atwood,449,9780385543781,448,Nan A. Talese
+Oryx and Crake,Margaret Atwood,399,9780385721677,400,Anchor
+Alias Grace,Margaret Atwood,399,9780385490443,480,Anchor
+Cat's Eye,Margaret Atwood,399,9780385491051,421,Anchor
+The Blind Assassin,Margaret Atwood,449,9780385720953,521,Anchor
+Beloved,Toni Morrison,349,9781400033416,321,Vintage
+Song of Solomon,Toni Morrison,349,9781400033423,337,Vintage
+The Bluest Eye,Toni Morrison,299,9780307278449,216,Vintage
+Sula,Toni Morrison,299,9781400033430,192,Vintage
+Homegoing,Yaa Gyasi,449,9781101971062,320,Vintage
+Americanah,Chimamanda Ngozi Adichie,399,9780307455925,608,Anchor
+Half of a Yellow Sun,Chimamanda Ngozi Adichie,399,9780007200283,448,Fourth Estate
+Purple Hibiscus,Chimamanda Ngozi Adichie,349,9780007189885,320,Fourth Estate
+Things Fall Apart,Chinua Achebe,249,9780385474542,209,Anchor
+No Longer at Ease,Chinua Achebe,249,9780385086165,176,Anchor
+The Old Man and the Sea,Ernest Hemingway,199,9780099273965,112,Vintage
+The Great Gatsby,F. Scott Fitzgerald,249,9780141182636,208,Penguin Classics
+1984,George Orwell,299,9780141187761,328,Penguin Modern Classics
+Brave New World,Aldous Huxley,299,9780099518471,288,Vintage Classics
+Fahrenheit 451,Ray Bradbury,299,9780006546061,208,HarperVoyager
+The Bell Jar,Sylvia Plath,299,9780060837020,288,Harper Perennial
+The Color Purple,Alice Walker,299,9780156028356,304,Mariner Books
+The Kite Runner,Khaled Hosseini,399,9781594631931,371,Riverhead Books
+A Thousand Splendid Suns,Khaled Hosseini,399,9781594489501,384,Riverhead Books
+And the Mountains Echoed,Khaled Hosseini,449,9781594632389,404,Riverhead Books
+The Henna Artist,Alka Joshi,399,9780593131367,368,Mira Books
+The Secret Keeper of Jaipur,Alka Joshi,399,9780593334608,336,Mira Books
+The Perfumist of Paris,Alka Joshi,399,9780593446714,336,Mira Books
+The Namesake,Jhumpa Lahiri,299,9780006551805,291,Flamingo
+The Interpreter of Maladies,Jhumpa Lahiri,299,9780006550686,198,Flamingo
+The White Tiger,Aravind Adiga,349,9781848872770,288,Atlantic Books
+The Last Mughal,William Dalrymple,599,9780143035661,576,Penguin Books
+City of Djinns,William Dalrymple,499,9780142001007,352,Penguin Books
+The Anarchy,William Dalrymple,599,9781408864371,576,Bloomsbury
+India After Gandhi,Ramachandra Guha,699,9780143103357,944,Penguin Books India
+The Argumentative Indian,Amartya Sen,499,9780141012117,432,Penguin Books
+The Discovery of India,Jawaharlal Nehru,499,9780143031031,688,Penguin Books India
+The Story of My Experiments with Truth,Mahatma Gandhi,399,9780142431160,528,Penguin Classics
+The Namesake,Jhumpa Lahiri,299,9780006551805,291,Flamingo
+The Inheritance of Loss,Kiran Desai,399,9780141025193,324,Penguin Books
+The Guide,R. K. Narayan,249,9780143065567,224,Penguin Books India
+Malgudi Days,R. K. Narayan,299,9780143039651,256,Penguin Books India
+Swami and Friends,R. K. Narayan,249,9780143039569,160,Penguin Books India
+The Great Indian Novel,Shashi Tharoor,399,9780143062018,423,Penguin Books India
+The Palace of Illusions,Chitra Banerjee Divakaruni,349,9780553385321,360,Anchor
+The Secret of the Nagas,Amish Tripathi,299,9789382618942,406,Westland
+The Oath of the Vayuputras,Amish Tripathi,349,9789382618973,575,Westland
+The Immortals of Meluha,Amish Tripathi,299,9789380658742,436,Westland
+A Suitable Boy,Vikram Seth,599,9780060786525,1474,Harper Perennial
+Shantaram,Gregory David Roberts,599,9780312330538,944,St. Martin's Press
+The God of Small Things,Arundhati Roy,399,9780812979657,340,Random House
+Midnight's Children,Salman Rushdie,499,9780099578512,647,Vintage
+The Satanic Verses,Salman Rushdie,499,9780812976717,561,Random House
+The Shadow Lines,Amitav Ghosh,299,9780007449599,246,John Murray
+The Hungry Tide,Amitav Ghosh,399,9780007449599,403,John Murray
+The Lowland,Jhumpa Lahiri,399,9780670085125,340,Viking
+Sea of Poppies,Amitav Ghosh,399,9780375718507,515,John Murray
+A Fine Balance,Rohinton Mistry,449,9780571250363,603,Faber & Faber
+The Glass Palace,Amitav Ghosh,449,9780375759531,512,Mariner Books
+The Ministry of Utmost Happiness,Arundhati Roy,499,9780241975489,445,Penguin Books
+The Last Lecture,Randy Pausch,299,9781401323257,208,Hyperion
+The Five People You Meet in Heaven,Mitch Albom,299,9780786868711,196,Hyperion
+Tuesdays with Morrie,Mitch Albom,249,9780385484510,192,Doubleday
+The Alchemist,Paulo Coelho,299,9780062315007,208,HarperOne
+Veronika Decides to Die,Paulo Coelho,299,9780061120060,210,HarperOne
+Brida,Paulo Coelho,299,9780061570355,272,HarperOne
+The Zahir,Paulo Coelho,349,9780060832811,336,HarperOne
+Eleven Minutes,Paulo Coelho,299,9780060589285,273,HarperOne
+The Pilgrimage,Paulo Coelho,299,9780062511077,272,HarperOne
+The Archer,Paulo Coelho,249,9780593540259,160,Knopf
+The Midnight Library,Matt Haig,399,9780525559474,304,Viking
+The House in the Cerulean Sea,TJ Klune,449,9781250217288,398,Tor Books
+Under the Whispering Door,TJ Klune,449,9781250217332,384,Tor Books
+The Invisible Life of Addie LaRue,V. E. Schwab,499,9780765387561,448,Tor Books
+A Darker Shade of Magic,V. E. Schwab,449,9780765376466,400,Tor Books
+The Atlas Six,Olivie Blake,449,9781250853592,384,Tor Books
+The Priory of the Orange Tree,Samantha Shannon,599,9781635570298,848,Bloomsbury
+Circe,Madeline Miller,449,9780316556347,393,"Little, Brown"
+The Song of Achilles,Madeline Miller,399,9780062060624,378,Bloomsbury
+The Silence of the Girls,Pat Barker,399,9780241982753,336,Hamish Hamilton
+The Penelopiad,Margaret Atwood,299,9781841159717,196,Canongate
+Pachinko,Min Jin Lee,499,9781455563920,496,Grand Central Publishing
+Free Food for Millionaires,Min Jin Lee,449,9780446694834,560,Grand Central Publishing
+The Island of Missing Trees,Elif Shafak,399,9780241462434,368,Viking
+10 Minutes 38 Seconds in This Strange World,Elif Shafak,399,9780241293853,320,Viking
+The Forty Rules of Love,Elif Shafak,399,9780241955032,368,Penguin Books
+My Name Is Red,Orhan Pamuk,399,9780375706868,417,Vintage
+Snow,Orhan Pamuk,399,9780375706861,448,Vintage
+The Museum of Innocence,Orhan Pamuk,499,9780307386459,561,Vintage
+The Bastard of Istanbul,Elif Shafak,399,9780143112716,368,Penguin Books
+The Kite Runner,Khaled Hosseini,399,9781594631931,371,Riverhead Books
+The Book Thief,Markus Zusak,449,9780375842207,584,Knopf Books
+All the Light We Cannot See,Anthony Doerr,499,9781501173219,544,Scribner
+Cloud Cuckoo Land,Anthony Doerr,499,9781982168438,626,Scribner
+The Nightingale,Kristin Hannah,499,9780312577223,608,St. Martin's Press
+The Great Alone,Kristin Hannah,449,9780312577230,448,St. Martin's Press
+The Four Winds,Kristin Hannah,499,9781250257217,464,St. Martin's Press
+The Women,Kristin Hannah,599,9781250178633,480,St. Martin's Press
+The Alice Network,Kate Quinn,449,9780062654199,528,William Morrow
+The Rose Code,Kate Quinn,499,9780062943477,656,William Morrow
+The Diamond Eye,Kate Quinn,499,9780062943484,448,William Morrow
+The Huntress,Kate Quinn,449,9780062915627,560,William Morrow
+The Tattooist of Auschwitz,Heather Morris,399,9780062797155,288,Harper
+Cilka's Journey,Heather Morris,399,9780062940635,416,St. Martin's Press
+The Book of Two Ways,Jodi Picoult,499,9781984818362,480,Ballantine Books
+Small Great Things,Jodi Picoult,449,9780345544957,480,Ballantine Books
+The Storyteller,Jodi Picoult,449,9781439102763,480,Atria Books
+My Sister's Keeper,Jodi Picoult,399,9780743454537,423,Atria Books
+Nineteen Minutes,Jodi Picoult,449,9780743496715,480,Atria Books
+The Pact,Jodi Picoult,399,9780743454520,400,Atria Books
+The Lovely Bones,Alice Sebold,399,9780330484517,372,Picador
+Lucky,Alice Sebold,349,9780743418562,272,Pocket Books
+The Goldfinch,Donna Tartt,599,9780316055444,771,"Little, Brown"
+The Secret History,Donna Tartt,499,9781400031702,544,Vintage
+The Little Friend,Donna Tartt,499,9780316011273,640,"Little, Brown"
+The Amazing Adventures of Kavalier & Clay,Michael Chabon,499,9780312282994,639,Picador
+The Yiddish Policemen's Union,Michael Chabon,449,9780062122760,411,Harper Perennial
+The Road,Cormac McCarthy,399,9780307386458,287,Vintage
+No Country for Old Men,Cormac McCarthy,399,9780375706671,309,Vintage
+All the Pretty Horses,Cormac McCarthy,399,9780679418465,302,Vintage
+Blood Meridian,Cormac McCarthy,449,9780679728757,351,Vintage
+The Crossing,Cormac McCarthy,449,9780679728764,426,Vintage
+The Overstory,Richard Powers,499,9780393635522,512,W. W. Norton
+Bewilderment,Richard Powers,449,9780393881141,336,W. W. Norton
+The Goldfinch,Donna Tartt,599,9780316055444,771,"Little, Brown"
+The Amazing Adventures of Kavalier & Clay,Michael Chabon,499,9780312282994,639,Picador
+The Underground Railroad,Colson Whitehead,399,9780345804327,306,Doubleday
+The Nickel Boys,Colson Whitehead,399,9780385542364,224,Doubleday
+Harlem Shuffle,Colson Whitehead,449,9780385545136,336,Doubleday
+The Sellout,Paul Beatty,399,9780375714416,304,Farrar Straus Giroux
+Lincoln in the Bardo,George Saunders,399,9780812977755,343,Random House
+Normal People,Sally Rooney,399,9781984822178,288,Hogarth
+"Beautiful World, Where Are You",Sally Rooney,499,9780374602604,368,Farrar Straus Giroux
+"Tomorrow, and Tomorrow, and Tomorrow",Gabrielle Zevin,499,9780593321201,416,Knopf
+The Storied Life of A. J. Fikry,Gabrielle Zevin,349,9781616204518,272,Algonquin Books
+The Interestings,Meg Wolitzer,449,9781594488401,480,Riverhead Books
+The Female Persuasion,Meg Wolitzer,449,9781594634031,464,Riverhead Books
+The Dutch House,Ann Patchett,449,9780062963673,337,Harper
+Commonwealth,Ann Patchett,449,9780062491794,336,Harper
+Bel Canto,Ann Patchett,399,9780061565373,352,Perennial
+The Lincoln Highway,Amor Towles,499,9780735222359,592,Viking
+A Gentleman in Moscow,Amor Towles,499,9780143110439,462,Viking
+Rules of Civility,Amor Towles,399,9780143121169,335,Penguin Books
+The Paris Library,Janet Skeslien Charles,449,9781982134193,400,Atria Books
+The Paris Apartment,Lucy Foley,449,9780063003057,352,HarperCollins
+The Guest List,Lucy Foley,399,9780062868084,320,William Morrow
+The Hunting Party,Lucy Foley,399,9780062868077,336,William Morrow
+The Last Thing He Told Me,Laura Dave,399,9781501171345,320,Simon & Schuster
+The Paper Palace,Miranda Cowley Heller,449,9780593329828,352,Riverhead Books
+The Great Circle,Maggie Shipstead,499,9780525656970,608,Knopf
+The Personal Librarian,Marie Benedict and Victoria Christopher Murray,449,9780593101530,368,Berkley
+The Christie Affair,Nina de Gramont,449,9780063001770,304,St. Martin's Press
+The Lost Apothecary,Sarah Penner,399,9781488073902,320,Park Row Books
+The Dictionary of Lost Words,Pip Williams,399,9781982181192,416,Ballantine Books
+Lessons in Chemistry,Bonnie Garmus,499,9780385547345,400,Doubleday
+Yellowface,R. F. Kuang,449,9780063250833,336,William Morrow
+Babel,R. F. Kuang,599,9780063021426,544,Harper Voyager
+The Poppy War,R. F. Kuang,499,9780062662583,544,Harper Voyager
+The Dragon Republic,R. F. Kuang,499,9780062662606,672,Harper Voyager
+The Burning God,R. F. Kuang,499,9780062662637,672,Harper Voyager
+The Atlas Paradox,Olivie Blake,499,9781250853653,384,Tor Books
+The Atlas Complex,Olivie Blake,499,9781250853677,480,Tor Books
+Fourth Wing,Rebecca Yarros,599,9781649374042,528,Red Tower Books
+Iron Flame,Rebecca Yarros,699,9781649374189,640,Red Tower Books
+Onyx Storm,Rebecca Yarros,699,9781649374189,544,Entangled Publishing
+The Priory of the Orange Tree,Samantha Shannon,599,9781635570298,848,Bloomsbury
+A Day of Fallen Night,Samantha Shannon,699,9781639730957,880,Bloomsbury
+The Bone Season,Samantha Shannon,449,9781620402810,452,Bloomsbury
+The Invisible Library,Genevieve Cogman,399,9780425283387,329,Ace
+The Starless Sea,Erin Morgenstern,499,9780385541213,498,Doubleday
+The Ten Thousand Doors of January,Alix E. Harrow,399,9780316421990,374,Redhook
+The Once and Future Witches,Alix E. Harrow,449,9780316422041,528,Redhook
+The City We Became,N. K. Jemisin,449,9780316509848,448,Orbit
+The World We Make,N. K. Jemisin,449,9780316509886,416,Orbit
+The Fifth Season,N. K. Jemisin,499,9780316229296,512,Orbit
+The Obelisk Gate,N. K. Jemisin,499,9780316229234,410,Orbit
+The Stone Sky,N. K. Jemisin,499,9780316229227,464,Orbit
+The Poppy War,R. F. Kuang,499,9780062662583,544,Harper Voyager
+The Invisible Life of Addie LaRue,V. E. Schwab,499,9780765387561,448,Tor Books
+The House in the Cerulean Sea,TJ Klune,449,9781250217288,398,Tor Books
+Project Hail Mary,Andy Weir,499,9780593135204,496,Ballantine Books
+Dune,Frank Herbert,499,9780441172719,688,Ace
+Foundation,Isaac Asimov,349,9780553293357,244,Bantam Spectra
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,299,9780345391803,224,Del Rey
+The Martian,Andy Weir,399,9780553418026,369,Broadway Books
+The Handmaid's Tale,Margaret Atwood,399,9780385490818,311,Anchor
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,449,9781501161933,400,Washington Square Press
+The Midnight Library,Matt Haig,399,9780525559474,304,Viking
+Atomic Habits,James Clear,499,9780735211292,320,Avery
+The Psychology of Money,Morgan Housel,349,9780857197689,256,Harriman House
+Sapiens,Yuval Noah Harari,499,9780062316097,464,Harper Perennial
+Educated,Tara Westover,499,9780399590504,352,Random House
+Becoming,Michelle Obama,599,9781524763138,448,Crown
+The 7 Habits of Highly Effective People,Stephen R. Covey,499,9781982137274,464,Simon & Schuster
+How to Win Friends and Influence People,Dale Carnegie,299,9780671027032,288,Simon & Schuster
+The Intelligent Investor,Benjamin Graham,599,9780060555665,640,Harper Business
+Rich Dad Poor Dad,Robert T. Kiyosaki,349,9781612680194,336,Plata Publishing
+Think and Grow Rich,Napoleon Hill,199,9781585424337,320,TarcherPerigee
+Wings of Fire,A. P. J. Abdul Kalam,299,9788173711466,180,Universities Press
+Train to Pakistan,Khushwant Singh,249,9780143065884,192,Penguin Books India
+India After Gandhi,Ramachandra Guha,699,9780143103357,944,Penguin Books India
+The Discovery of India,Jawaharlal Nehru,499,9780143031031,688,Penguin Books India
+The Argumentative Indian,Amartya Sen,499,9780141012117,432,Penguin Books
+The Last Mughal,William Dalrymple,599,9780143035661,576,Penguin Books
+The Anarchy,William Dalrymple,599,9781408864371,576,Bloomsbury
+The Palace of Illusions,Chitra Banerjee Divakaruni,349,9780385669931,360,Picador India
+The Immortals of Meluha,Amish Tripathi,299,9789380658742,436,Westland
+Chanakya's Chant,Ashwin Sanghi,349,9789381626702,432,Westland
+Raavan: Enemy of Aryavarta,Amish Tripathi,399,9789388754439,415,Westland
+The Great Indian Novel,Shashi Tharoor,399,9780140257751,423,Penguin Books India
+The White Tiger,Aravind Adiga,349,9781416562603,288,Free Press
+A Fine Balance,Rohinton Mistry,449,9780571250363,603,Faber & Faber
+The Inheritance of Loss,Kiran Desai,399,9780802142811,324,Grove Press
+The Ministry of Utmost Happiness,Arundhati Roy,499,9780241975489,445,Penguin Books
+The God of Small Things,Arundhati Roy,399,9780006550686,340,Flamingo
+A Suitable Boy,Vikram Seth,599,9780060786525,1474,Harper Perennial
+Shantaram,Gregory David Roberts,599,9780312330538,944,St. Martin's Press
+The Lowland,Jhumpa Lahiri,399,9780670085125,340,Viking
+Sea of Poppies,Amitav Ghosh,399,9780375718507,515,John Murray
+The Glass Palace,Amitav Ghosh,449,9780375759531,512,Mariner Books
+The Hungry Tide,Amitav Ghosh,399,9780007449599,403,John Murray
+The Shadow Lines,Amitav Ghosh,299,9780007455102,246,John Murray
+The Book Thief,Markus Zusak,449,9780375842207,584,Knopf Books
+All the Light We Cannot See,Anthony Doerr,499,9781501173219,544,Scribner
+The Nightingale,Kristin Hannah,499,9780312577223,608,St. Martin's Press
+The Great Alone,Kristin Hannah,449,9780312577230,448,St. Martin's Press
+The Women,Kristin Hannah,599,9781250178633,480,St. Martin's Press
+The Tattooist of Auschwitz,Heather Morris,399,9780062797155,288,Harper
+Pachinko,Min Jin Lee,499,9781455563920,496,Grand Central Publishing
+Lessons in Chemistry,Bonnie Garmus,499,9780385547345,400,Doubleday
+"Tomorrow, and Tomorrow, and Tomorrow",Gabrielle Zevin,499,9780593321201,416,Knopf
+The Dutch House,Ann Patchett,449,9780062963673,337,Harper
+A Gentleman in Moscow,Amor Towles,499,9780143110439,462,Viking
+The Lincoln Highway,Amor Towles,499,9780735222359,592,Viking
+The Guest List,Lucy Foley,399,9780062868084,320,William Morrow
+The Last Thing He Told Me,Laura Dave,399,9781501171345,320,Simon & Schuster
+The Lost Apothecary,Sarah Penner,399,9781488073902,320,Park Row Books
+Yellowface,R. F. Kuang,449,9780063250833,336,William Morrow
+Babel,R. F. Kuang,599,9780063021426,544,Harper Voyager
+Fourth Wing,Rebecca Yarros,599,9781649374042,528,Red Tower Books
+Iron Flame,Rebecca Yarros,699,9781649374189,640,Red Tower Books
+Circe,Madeline Miller,449,9780316556347,393,"Little, Brown"
