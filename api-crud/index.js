@@ -9,7 +9,8 @@ app.use(express.json())
 app.use(cors())
 app.use(book)
 app.use(mobile)
-//app.use(createAdmin)
+//app.use(createAdmin)   in use this line to create admin user in database and then comment it out to avoid creating multiple admin users
+
 connect();
 app.listen(3000,(err)=>{
     if(err){
